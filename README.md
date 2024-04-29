@@ -6,7 +6,7 @@ This web scraping project aims to extract data for best selling boos of 2023 on 
 
 ### Data Source
 
-The primary data source used for this project is the Amazon link indicated. mazon.com/gp/bestsellers/2023/books/ref=zg_bsar_pg_1_books/ref=zg_bsar_pg_1_books?ie=UTF8&pg=1 This leads to Amazon's listing and details of their best sellers.
+The primary data source used for this project is the Amazon link [https://www.amazon.com/gp/bestsellers/2023/books/ref=zg_bsar_pg_1_books/ref=zg_bsar_pg_1_books?ie=UTF8&pg=1] This leads to Amazon's listing and details of their best sellers.
 
 ### Tools
 
@@ -25,7 +25,12 @@ The primary data source used for this project is the Amazon link indicated. mazo
     ### Data Cleaning Process
 
 
-    After exporting the extracted data to an Excel file. Cleaning becomes necessary because the exported file is dirty and unfit to work with. Hencs the following cleaning task were performed with the excel tools indicated along: 
+After exporting the extracted data to an Excel file. Cleaning becomes necessary because the exported file is dirty and unfit to work with. Hence the following cleaning task were performed with the excel tools indicated along:
+- Table tool: Table was inserted from the tool bar to make the data more structured and easy to format.
+- Delete tool : This was used to delete every unessary field in the dataset
+- Design: This was used to choose the right color for the table
+- Format tools: Thy were used to change data in filed labelled ratting from text to number, format headers and chooses the right font for each header
+- After the above steps, the dataset is now clean and ready for further use.
     - 
 
 
