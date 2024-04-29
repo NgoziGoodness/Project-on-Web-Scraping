@@ -1,6 +1,9 @@
 # Web Scraping of bestselling books in 2023 on Amazon
 
 ### Project Overview
+![Amazon website](https://github.com/NgoziGoodness/Project-on-Web-Scrapping/assets/164032971/fa34ecbd-1de5-4511-b5e0-d91951695230)
+
+
 
 This web scraping project aims to extract data for best sellingbooks of 2023 on Amazon from Amazon website. The data extracted will be cleaned afterwards so there can be a clear list of bestselling books on the website for 2023 along with details such as the authors, book title and ratings. This will help to make an informed decision on books to invest in for a school library.
 
@@ -10,7 +13,9 @@ The primary data source used for this project is the Amazon link [https://www.am
 
 ### Tools
 
-- Chrome Web Scraper (This was used for data scraping) 
+- Chrome Web Scraper (This was used for data scraping)
+  ![webscrapper](https://github.com/NgoziGoodness/Project-on-Web-Scrapping/assets/164032971/e6eb25e3-9a4f-49fd-a9e2-2536bcc162a6)
+
 - Excel (This was used for data cleaning)
 
 ### Data Scraping Process
