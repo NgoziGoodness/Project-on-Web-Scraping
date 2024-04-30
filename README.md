@@ -2,6 +2,7 @@
 
 ### Project Overview
 ![Amazon website](https://github.com/NgoziGoodness/Project-on-Web-Scrapping/assets/164032971/fa34ecbd-1de5-4511-b5e0-d91951695230)
+![Scraped data](https://github.com/NgoziGoodness/Project-on-Web-Scraping/assets/164032971/a91dc71a-9975-4e3f-8f45-abad23b1baba)
 
 
 
@@ -14,7 +15,8 @@ The primary data source used for this project is the Amazon link [https://www.am
 ### Tools
 
 - Chrome Web Scraper (This was used for data scraping)
-  ![webscrapper](https://github.com/NgoziGoodness/Project-on-Web-Scrapping/assets/164032971/e6eb25e3-9a4f-49fd-a9e2-2536bcc162a6)
+  ![Sitemaps for Amazon Books](https://github.com/NgoziGoodness/Project-on-Web-Scraping/assets/164032971/7d931ded-4ae8-4ec6-8920-a20ec1af3997)
+
 
 - Excel (This was used for data cleaning)
 
