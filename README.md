@@ -14,7 +14,7 @@ The primary data source used for this project is the Amazon link [https://www.am
 
 ### Tools
 
-- Chrome Web Scraper (This was used for data scraping)
+- Chrome Web Scraper (This was used for web scraping)
   ![Sitemaps for Amazon Books](https://github.com/NgoziGoodness/Project-on-Web-Scraping/assets/164032971/7d931ded-4ae8-4ec6-8920-a20ec1af3997)
 
 
@@ -22,11 +22,11 @@ The primary data source used for this project is the Amazon link [https://www.am
 
 ### Data Scraping Process
 
-  In the data scraping process I performed the following task:
+  In the web scraping process I performed the following task:
   - I installed chrome web scraper in my chrome browser
   - I went to the site data is to be extracted from (Amazon website) and opened web scraper
   - New site map was created on the web scraper and Labeled
-  - The necessary selected were created, added and saved
+  - The necessary selection were created, added and saved
   - scrapping was done and exported to an excel file
  
 ### Data Cleaning Process
